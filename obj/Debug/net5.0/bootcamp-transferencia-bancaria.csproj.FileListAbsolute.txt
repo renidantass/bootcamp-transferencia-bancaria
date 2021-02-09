@@ -1,0 +1,16 @@
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.csprojAssemblyReference.cache
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.AssemblyInfoInputs.cache
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.AssemblyInfo.cs
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\bootcamp-transferencia-bancaria.exe
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\bootcamp-transferencia-bancaria.deps.json
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\bootcamp-transferencia-bancaria.runtimeconfig.json
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\bootcamp-transferencia-bancaria.runtimeconfig.dev.json
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\bootcamp-transferencia-bancaria.dll
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\ref\bootcamp-transferencia-bancaria.dll
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\bin\Debug\net5.0\bootcamp-transferencia-bancaria.pdb
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.dll
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\ref\bootcamp-transferencia-bancaria.dll
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.pdb
+C:\Users\Reni Alkimim\Desktop\dev\bootcamp-transferencia-bancaria\obj\Debug\net5.0\bootcamp-transferencia-bancaria.genruntimeconfig.cache
